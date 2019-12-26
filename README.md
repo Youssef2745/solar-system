@@ -1,1 +1,1 @@
-# solar-sysyem
+# solar-system
